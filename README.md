@@ -40,7 +40,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 ## 🚀 Technologies
 *The project was developed based on technologies:*
 
-- *VisuAlg*
+- *VisuAlg 3.0*
 - *Scratch Studio*
 
 --------------
